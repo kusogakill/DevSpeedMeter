@@ -67,3 +67,9 @@ ALERT_THRESHOLD = 100     # アラート閾値
 - Python 3.7+
 - Windows / macOS / Linux
 - pynput ライブラリ
+
+## ライセンス
+
+MIT License
+
+Copyright (c) 2025 negiradomoti

@@ -18,7 +18,7 @@ pip install pynput
 
 ## 使い方
 ```bash
-python dev_speed_meter.py
+python app.py
 ```
 
 終了は `Ctrl+C`
@@ -45,7 +45,7 @@ python dev_speed_meter.py
 
 ## パラメータ調整
 
-`dev_speed_meter.py` の先頭で調整可能：
+`app.py` の先頭で調整可能：
 ```python
 SMOOTH_ALPHA = 0.3        # 平滑化係数（0.1-0.5推奨）
 SPEED_SCALE = 12          # スピード感度（変更で上昇速度調整）

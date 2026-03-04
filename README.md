@@ -72,4 +72,4 @@ ALERT_THRESHOLD = 100     # アラート閾値
 
 MIT License
 
-Copyright (c) 2025 negiradomoti
+Copyright (c) 2026 negiradomoti
